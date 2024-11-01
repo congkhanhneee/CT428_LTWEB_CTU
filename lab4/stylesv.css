@@ -1,0 +1,7 @@
+#sinhvienTable th, #sinhvienTable td{
+    /* border: 1px solid #000; */
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
